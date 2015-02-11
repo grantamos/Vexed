@@ -1,2 +1,2 @@
 # Vexed
-A simple voxel engine in Go.
+A simple voxel engine in CoffeeScript.
